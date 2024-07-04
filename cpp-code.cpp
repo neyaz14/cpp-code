@@ -178,7 +178,7 @@ int rotate_array(int arr[], int n)
 
 int main()
 {
-    int arr[]={1,2,3,6,7,9};  
+    int arr[]={1,2,3,6,7,9,8,7,5,6};  
     int len = 5;
     rotate_array(arr, len);
     
